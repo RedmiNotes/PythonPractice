@@ -1,0 +1,13 @@
+Index: NewFile/Hello.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- NewFile/Hello.py	(date 1571309823000)
++++ NewFile/Hello.py	(date 1571309879746)
+@@ -1,1 +1,2 @@
+-print("GIT CHECK")
+\ No newline at end of file
++print("GIT CHECK")
++print("New")
+\ No newline at end of file
